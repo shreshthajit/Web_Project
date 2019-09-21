@@ -1,0 +1,32 @@
+ 
+
+form{
+    background-image: url(/home/shreshthajit/Music/Student_Registration_form/Imgaes/img9.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    overflow-y: auto;
+   
+}
+h3{
+  font-family: Calibri; 
+  font-size: 25pt;         
+  font-style: normal; 
+  font-weight: bold; 
+  color:darkblue;
+  text-align: center; 
+  text-decoration:inherit;
+}
+table{
+  font-family:calibrie; 
+  color:aqua; 
+  font-size: 12pt; 
+  font-style: normal;
+  font-weight: bold;
+  text-align:; 
+  <!background-color:cornflowerblue; >s
+  border-collapse: collapse; 
+   
+}
+ <!------border:-------1px solid navy---->
+ 
